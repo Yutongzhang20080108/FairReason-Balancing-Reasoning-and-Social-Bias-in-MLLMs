@@ -6,6 +6,7 @@ liger-kernel
 mathruler
 numpy
 omegaconf
+openai
 pandas
 peft
 pillow
@@ -13,8 +14,10 @@ pyarrow>=15.0.0
 pylatexenc
 qwen-vl-utils
 ray[default]
+requests
 tensordict
 torchdata
+tqdm
 transformers>=4.51.0,<4.53.0
 vllm>=0.8.0
 wandb
